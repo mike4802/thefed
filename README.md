@@ -9,3 +9,6 @@ Here are some other links that talk about it:
 * [Bankrate.com](http://www.bankrate.com/banking/federal-reserve/fed-balance-sheet-and-your-bottom-line/)
 
 So did they actually keep their promise ??   They sure did.  Boom!  $11.5B  - gone as of Dec 31, 2017.
+
+## Running the code
+Download and run the Jupyter notebook.  The CSV file should be fetched from the URL as defined.
